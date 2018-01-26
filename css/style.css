@@ -1,0 +1,31 @@
+               /* --- Tout ---*/
+div
+{
+    margin: 10px;
+}
+          /*--- partie recherche ---*/
+.search-box{
+   /* border-style: solid;*/
+}
+.result{
+  /*  border-style: solid;*/
+    overflow: scroll;
+    height:500px;
+}
+input#Nom{
+    margin-right:30px;
+}
+input#Prenom{
+    margin-right:30px;
+}
+input#idPatient{
+    margin-right:30px;
+}
+div.search-box{
+    padding-left:20px;
+}
+
+          /* ---partie resultat--- */
+.list-group-item{
+    margin-bottom: -22px;
+}
